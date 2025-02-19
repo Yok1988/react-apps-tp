@@ -61,7 +61,8 @@
     "react-native-zip-archive": "^7.0.1",
     "react-navigation": "^5.0.0",
     "update": "^0.7.4",
-    "yup": "^1.6.1"
+    "yup": "^1.6.1",
+    "expo-linear-gradient": "~14.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
